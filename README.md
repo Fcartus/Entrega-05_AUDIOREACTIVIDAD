@@ -24,6 +24,10 @@ Entonces por ejemplo cuando la pista pase por la zona de una trompeta alta los d
 
 Ahora bien, la visualización final se trabajo con Claude, ¿Por qué no se trabajo con el Sketch.tools?, simplemente porque la plataforma no me permitio en reiteradas ocasiones trabajar bien con las distintas pistas, me presentaban errores y tenia que volver a hacer todo el proceso denuevo de configurarlas, como a su vez tampoco me dejaba guardar el trabajo realizado por exceso de memoria (tiene un tope de guardado de 50mb y solo las pistas pesaban al rededor de 35 mb cada una), entonces entorpecio bastante el trabajo de las pistas y se derivo a esta otra herramienta donde se conformo el HTML desde 0 y según el SVG que ya había realizado en Illustrator donde traían todas las capas que mencione anteriormente (en carpeta de proceso se ve el mockup y proceso de armado y dibujo digital).
 
+Se le termino de agregar un sistema e iluminación que siguiera el ritmo y guiara la luz al sonido que suena en el momento, tambien se agrego un telón de fondo para darle profundidad y una tarima para que de la impresión de estar en altura. 
+
+Además se termino de agregar un sistema para que existan distintas formas de exportado. 
+
 
       ITERACIONES
 
@@ -67,4 +71,4 @@ OJO: Todos los resultados de iteraciones tuvieron que ser grabados con la grabac
                 ¿Como se logro?
 
    Se creo un archivo .py con el nombre donde previamente se tenia que instalar el codigo en powershell: pip install syrics - Este te generaba una biblioteca que permitia guardar esta clase de archivos.
-   Para identificar la herramienta se tuvo que indagar en la consola y rescatar un archivo de las cookies propias de spotify. Se tenia que buscar en elementos - Cookies - y buscar el archivo SP_DC que contenia la    url directa de la canción.
+   Para identificar la herramienta se tuvo que indagar en la consola y rescatar un archivo de las cookies propias de spotify. Se tenia que buscar en elementos - Cookies - y buscar el archivo SP_DC que contenia      la url directa de la canción.
